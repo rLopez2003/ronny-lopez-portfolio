@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-About this site
+I am Ronny Lopez I am an undergraduate student from CSUMB. I will use this mainly for Stats250 code but also with Arduino too.
 
 ```{r}
 1 + 1
