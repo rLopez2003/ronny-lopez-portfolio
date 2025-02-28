@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ronny Lopez",
+    "section": "",
+    "text": "Ronny Lopez is a Senior Marine Science student at [California State University, Monterey Bay]."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Ronny Lopez",
+    "section": "Education",
+    "text": "Education\nDe Anza College | Cupertino, CA\nA.A. Liberal Arts Emphasis in Science, Math, and Engineering| 2021-2023"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Ronny Lopez",
+    "section": "Experience",
+    "text": "Experience\nBig Sur Land Trust | Volunteer Steweard | January 2024 - May 2024"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am Ronny Lopez I am an undergraduate student from CSUMB. I will use this mainly for Stats250 code but also with Arduino too.\n\n1 + 1\n\n[1] 2"
+  }
+]

@@ -1,5 +1,4 @@
 ---
----
 title: "Ronny Lopez"
 about:
   template: jolla
@@ -25,9 +24,3 @@ A.A. Liberal Arts Emphasis in Science, Math, and Engineering| 2021-2023
 Big Sur Land Trust | Volunteer Steweard | January 2024 - May 2024
 
 
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
